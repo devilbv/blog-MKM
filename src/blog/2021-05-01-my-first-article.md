@@ -5,8 +5,8 @@ date: 2022-12-03
 tags: ["post", "featured"]
 image: /assets/blog/article-1.jpg
 imageAlt: This is a test
-description: Când este momentul cel mai oportun să alegi o agenție de marketing digital pentru promovarea afacerii tale online? 
-De ce să alegi o agenție de marketing digital?
+description: "Când este momentul cel mai oportun să alegi o agenție de marketing digital pentru promovarea afacerii tale online? 
+De ce să alegi o agenție de marketing digital? "
 ---
 
 Atunci când ai un business la început, planificarea bugetelor reprezintă o provocare din multe puncte de vedere. O tendință pe care mulți antreprenori o au este să se ocupe de cât mai multe procese intern pentru a economisi bani. Unul dintre aceste procese este marketingul digital. Deși digital marketing este un serviciu extrem de important pentru orice afacere pentru că îți asigură vizibilitate în piața online mulți antreprenori preferă să se ocupe de acest aspect intern.
